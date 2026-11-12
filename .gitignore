@@ -1,0 +1,33 @@
+# Dataset (download separately; do not commit licensed image files)
+data/
+*.zip
+*.7z
+*.tar
+# Training outputs
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+results/*.csv
+results/*.json
+results/*.png
+results/*.pdf
+# Local environments
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+.backups/
+
+colab_artifacts/
+
+.kaggle/
+
+kaggle.json
+
+access_token*
+
+.env
+
+.env.*
