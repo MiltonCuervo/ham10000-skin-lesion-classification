@@ -57,7 +57,7 @@ Se ejecutaron los cinco notebooks. Se mantuvo la división 7.002 / 1.519 / 1.494
 
 - `ENTREGA1.PDF`: disponible, propuesta original.
 - [INFORME_PROYECTO.PDF](INFORME_PROYECTO.PDF): informe final de ocho páginas con metodología, resultados reales verificados, curvas de aprendizaje, matrices de confusión, análisis de errores, limitaciones y referencias.
-- **Video en YouTube: pendiente de grabación/publicación. Añadir el enlace aquí antes de entregar.**
+- **Video de presentación:** [Ver en YouTube](https://youtu.be/-LKhVNwHnkU).
 
 Los datos originales, credenciales, entornos y checkpoints no se incluyen en GitHub. Las métricas y figuras finales sí se publican dentro de los notebooks y en este resumen. El repositorio conserva solamente los notebooks numerados, informes disponibles, README y reglas de exclusión.
 
