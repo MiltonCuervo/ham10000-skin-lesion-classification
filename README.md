@@ -56,7 +56,7 @@ Cada notebook incluye solo las funciones que necesita. Los checkpoints, historia
 Se ejecutaron los cinco notebooks. Se mantuvo la división 7.002 / 1.519 / 1.494 de las 10.015 imágenes, sin lesiones compartidas. Se completaron las dos variantes de baseline (10 épocas cada una), los tres clasificadores de transferencia (5 épocas cada uno) y la multiclase (8 épocas de cabeza y 5 de ajuste fino). Las tres evaluaciones finales y sus salidas están disponibles en los notebooks.
 
 - `ENTREGA1.PDF`: disponible, propuesta original.
-- [INFORME_PROYECTO.PDF](INFORME_PROYECTO.PDF): informe final de siete páginas con metodología, resultados reales verificados, curvas de aprendizaje, matrices de confusión, análisis de errores, limitaciones y referencias.
+- [INFORME_PROYECTO.PDF](INFORME_PROYECTO.PDF): informe final de ocho páginas con metodología, resultados reales verificados, curvas de aprendizaje, matrices de confusión, análisis de errores, limitaciones y referencias.
 - **Video en YouTube: pendiente de grabación/publicación. Añadir el enlace aquí antes de entregar.**
 
 Los datos originales, credenciales, entornos y checkpoints no se incluyen en GitHub. Las métricas y figuras finales sí se publican dentro de los notebooks y en este resumen. El repositorio conserva solamente los notebooks numerados, informes disponibles, README y reglas de exclusión.
